@@ -56,7 +56,7 @@ I'm a CS student from Pakistan.<br><br>
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hibamahboob587&show_icons=true&theme=radical" height="180" />
