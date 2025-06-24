@@ -21,21 +21,6 @@
 
 ###
 
-<h1 align="center">Hey there</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I'm a CS student from Pakistan.<br><br>
-- 🔭 I’m working on full-stack web + AI projects<br>
-- 📚 Currently studying<br>
-- ⚡ I love building cool things, automating tasks, and exploring new tech
-</p>
-
-###
-
 <h3 align="left">🛠 Tools & Technologies</h3>
 
 <div align="left">
@@ -52,6 +37,9 @@ I'm a CS student from Pakistan.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40" alt="arduino logo" />
+
 </div>
 
 ###
