@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Hiba from Pakistan.<br><br>- 🔭 I’m working on web + AI projects<br>- 📚 I'm currently learning the MERN stack and computer vision<br>- ⚡ In my free time I build things, learn new tech, and drink chai ☕</p>
+<p align="left">I'm Hiba from Pakistan.<br><br>- 🔭 I’m working on web + AI projects<br>- 📚 I'm currently studying <br>- ⚡ In my free time I build things, learn new tech, and drink chai ☕</p>
 
 ###
 
